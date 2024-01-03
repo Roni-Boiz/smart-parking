@@ -1,0 +1,67 @@
+{
+  "id": "plc001",
+  "name": "Lanka Hospital",
+  "type": "hospital",
+  "image_url": "",
+  "description": "Hospital of the people",
+  "location": {
+    "address": "Colombo",
+    "latitude": 6.889698230819385,
+    "longitude": 79.87581410595037,
+    "url": "https://goo.gl/maps/rg1QHsUke9ZPndeAA"
+  },
+  "total_no_of_slots": 10,
+  "slots_on_each_floor": [5, 5],
+  "slots": [
+    {
+      "no": 1,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 2,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 3,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 4,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 5,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 6,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 7,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 8,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 9,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 10,
+      "types": ["all"],
+      "occupy": 0
+    }
+  ]
+}

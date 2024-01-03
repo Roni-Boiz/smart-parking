@@ -1,0 +1,167 @@
+{
+  "id": "plc004",
+  "name": "Unity Plaza",
+  "type": "shopping_complex",
+  "image_url": "",
+  "description": "Place to Buy Laptops, Computers and all type of electronic parts",
+  "location": {
+    "address": "Colombo",
+    "latitude": 6.893916925479497,
+    "longitude": 79.85523335280406,
+    "url": "https://goo.gl/maps/uEnkVqkRjyLJRjRY9"
+  },
+  "total_no_of_slots": 30,
+  "slots_on_each_floor": [5, 10, 15],
+  "slots": [
+    {
+      "no": 1,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 2,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 3,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 4,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 5,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 6,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 7,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 8,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 9,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 10,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 11,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 12,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 13,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 14,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 15,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 16,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 17,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 18,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 19,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 20,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 21,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 22,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 23,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 24,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 25,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 26,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 27,
+      "types": ["all"],
+      "occupy": 1
+    },
+    {
+      "no": 28,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 29,
+      "types": ["all"],
+      "occupy": 0
+    },
+    {
+      "no": 30,
+      "types": ["all"],
+      "occupy": 0
+    }
+  ]
+}
